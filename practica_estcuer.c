@@ -3,7 +3,6 @@
 #include <time.h>
 #include <string.h>
 //Practica Codigos y Criptografia curso 2016/2017.
-//Autor: Esther Cuervo Fernandez
 //12.Diciembre.2016
 
 //cipher(clave_entrada,IV_entrada,ruta_fichero)
